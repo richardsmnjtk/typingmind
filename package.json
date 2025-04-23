@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "http-server ./src/ -p 3000"
+    "start": "http-server ./src/ -p 3000",
+    "build": "echo 'No build step needed for static site'"
   },
   "name": "typingmind",
   "version": "1.0.0",
